@@ -1,3 +1,11 @@
 *.Po
 *.o
 *.dSYM/*
+/config.log
+/config.status
+/Makefile
+/buck-out/
+/.buckd/
+/buckaroo/
+.buckconfig.local
+BUCKAROO_DEPS
